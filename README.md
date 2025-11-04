@@ -21,6 +21,10 @@ Several parameters require tuning to suit specific inspection scenario. They are
 
 *: Adjust based on the inspection target
 
+# Usage
+1. Add all files, including stlTools and mesh files into MATLAB's path
+2. Run Mixed_viewpoint_generation.m
+
 # Reference
 ````
 @Article{drones9080541,
